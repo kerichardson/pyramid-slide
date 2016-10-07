@@ -20,14 +20,6 @@ and report back to user
 }
 
 /**
-*Links button action to determineHeightAndThenDrawPyramid
-*/
-// var scale = document.querySelector("#slideScale");
-// scale.addEventListener("input", function() {
-//     determineHeightAndThenDrawPyramid();
-//});
-
-/**
 * Renders, in the HTML document, a Mario pyramid of the specified height
 */
 function drawPyramid(height) {
